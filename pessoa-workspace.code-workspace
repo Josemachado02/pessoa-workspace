@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "pessoaws"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server\\eureka-server"
+		},
+		{
+			"name": "zuul-server",
+			"path": "zuul-server\\zuul-server"
+		},
+		{
+			"path": "animais-ms"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
